@@ -1,2 +1,2 @@
-# wanderLust
-Hotel booking website
+# WanderLust
+A travel site project using MongoDB, Express, NodeJs.
